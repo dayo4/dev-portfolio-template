@@ -1,8 +1,9 @@
 Full Software developer portfolio template using Javascript, Html, Css...
 
-### Preview https://dayo4.github.io/dev-portfolio-template/
 
 ### Website Preview
+https://dayo4.github.io/dev-portfolio-template/
+
 #### Home Page
 <img src="website_images/HomePage.gif" width="900">
 
